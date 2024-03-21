@@ -1,0 +1,49 @@
+{ 
+  [
+    {
+      "id": "1",
+      "EducationName": "Zhytomyr Engeniring Tecnological institute",
+      "Specialize": "Automation and Control",
+      "Title": "Specialize/Bakalavr",
+      "Subjects": [{"sub-learn":"MC"}, {"sub-learn":"Coding Signals"}, {"sub-learn":"Theory Control"}],
+      "YearBegin": "1991",
+      "YearEnd": "1997"
+    },
+    {
+      "id": "2",
+      "EducationName": "Computing Academy Step",
+      "Specialize": "Software engeniring",
+      "Title": "Bakalavr",
+      "Subjects": [{"sub-learn":"C/C++"}, {"sub-learn":"C#"},{"sub-learn":"DataBases, SQL/MSSQL/MySQL"},{"sub-learn":"Java"},{"sub-learn":"PHP"},{"sub-learn":"UML"},{"sub-learn":"Unity"},],
+      "YearBegin": "2016",
+      "YearEnd": "2019",
+    },
+    {
+      "id": "3",
+      "EducationName": "Zhytomyr Politecnical University",
+      "Specialize": "Network tecnological",
+      "Title": "Magister",
+      "Subjects": [{"sub-learn":"MachineLearn"}, {"sub-learn":"IoT"},{"sub-learn":"Cisco Network Academy"},{"sub-learn":""},{"sub-learn":""},{"sub-learn":""},{"sub-learn":""},],
+      "YearBegin": "2019",
+      "YearEnd": "2021",
+    },
+    {
+      "id": "4",
+      "EducationName": "Computing Course ItGid",
+      "Specialize": "Software engeniring",
+      "Title": "bakalavr",
+      "Subjects": [{"sub-learn":"HTML/CSS"}, {"sub-learn":"Java-Script"},{"sub-learn":"React"},{"sub-learn":"NodeJS"},],
+      "YearBegin": "2023",
+      "YearEnd": "2024",
+    },
+    {
+      "id": "5",
+      "EducationName": "Computing Academy GoIT",
+      "Specialize": "Full-Step developer",
+      "Title": "bakalavr",
+      "Subjects": [{"sub-learn":"HTML/CSS"}, {"sub-learn":"Java-Script"},{"sub-learn":"JSON, MongoDB, MySQL"},{"sub-learn":"React"},{"sub-learn":"NodeJS"},{"sub-learn":"GitHub"},],
+      "YearBegin": "2022",
+      "YearEnd": "2023",
+    },
+  ] 
+}

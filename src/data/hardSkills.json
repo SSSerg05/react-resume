@@ -1,0 +1,17 @@
+{
+  [
+    {"hard-skill":"HTML", "quality":"11"},
+    {"hard-skill":"CSS", "quality":"11"},
+    {"hard-skill":"Java-Script", "quality":"11"},
+    {"hard-skill":"Type-Script", "quality":"9"},
+    {"hard-skill":"React-Obj", "quality":"9"},
+    {"hard-skill":"React-Func", "quality":"10"},
+    {"hard-skill":"NodeJS", "quality":"11"},
+    {"hard-skill":"Java", "quality":"6"},
+    {"hard-skill":"C/C++", "quality":"7"},
+    {"hard-skill":"C#", "quality":"7"},
+    {"hard-skill":"MongoDB, SQL", "quality":"9"},
+    {"hard-skill":"UML", "quality":"10"},
+    {"hard-skill":"MC/Schema-architect", "quality":"5"},
+  ]
+}
